@@ -1,0 +1,9 @@
+d:\Documents\Visual Studio 2017\Projects\Calculator2017\Calculator2017\bin\Release\Calculator2017.exe.config
+d:\Documents\Visual Studio 2017\Projects\Calculator2017\Calculator2017\bin\Release\Calculator2017.exe
+d:\Documents\Visual Studio 2017\Projects\Calculator2017\Calculator2017\bin\Release\Calculator2017.pdb
+d:\Documents\Visual Studio 2017\Projects\Calculator2017\Calculator2017\obj\Release\Calculator2017.Form1.resources
+d:\Documents\Visual Studio 2017\Projects\Calculator2017\Calculator2017\obj\Release\Calculator2017.Properties.Resources.resources
+d:\Documents\Visual Studio 2017\Projects\Calculator2017\Calculator2017\obj\Release\Calculator2017.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2017\Projects\Calculator2017\Calculator2017\obj\Release\Calculator2017.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\Calculator2017\Calculator2017\obj\Release\Calculator2017.exe
+d:\Documents\Visual Studio 2017\Projects\Calculator2017\Calculator2017\obj\Release\Calculator2017.pdb
